@@ -6,8 +6,6 @@ Hệ thống xử lý trích xuất đặc trưng và tái tạo phong cách ả
 
 Để hiểu rõ hơn về ứng dụng, hãy xem qua bảng phân loại phong cách nghệ thuật dưới đây:
 
-<center>
-
 | Style                              | Mô tả             |
 |------------------------------------|-------------------|
 |Classical Painting Styles           |[Link](https://www.wikiart.org/en/paintings-by-style/classicism#!#filterName:all-works,viewType:masonry)                   |
@@ -17,5 +15,3 @@ Hệ thống xử lý trích xuất đặc trưng và tái tạo phong cách ả
 |Technological and Futuristic Styles |[Link](https://blog.depositphotos.com/retro-futurism-art-design.html)                   |
 |Vintage and Retro Styles            |[Link](https://picsart.com/blog/introduction-to-retro-art/)                   |
 |Movie and Story Inspired Styles     |[Link](https://entergallery.com/blogs/news/art-inspired-by-the-movies?srsltid=AfmBOor6dc8K_McxXXdi50Gj22Y8aqhAQay5OBGHfylo2G0ZuAWCjxe5)                   |
-
-</center>
