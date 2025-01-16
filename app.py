@@ -12,11 +12,11 @@ hub_model = hub.load("https://tfhub.dev/google/magenta/arbitrary-image-stylizati
 STYLE_IMAGES = {
     "Classical Painting Styles": "style_images/classical_style.jpg",
     "Modern and Abstract Styles": "style_images/modern_abstract_style.jpg",
-    "Cultural and Folk Styles": "style_images/cultural_folk_style_1.jpg",
-    "Natural Styles": "style_images/natural_style_1.jpg",
-    "Technological and Futuristic Styles": "style_images/technological_futuristic_style_2.jpg",
+    "Cultural and Folk Styles": "style_images/cultural_folk_style.jpg",
+    "Natural Styles": "style_images/natural_style.jpg",
+    "Technological and Futuristic Styles": "style_images/technological_futuristic_style.jpg",
     "Vintage and Retro Styles": "style_images/vintage_retro_style.jpg",
-    "Movie and Story Inspired Styles": "style_images/movie_storyInspired_style_3.jpg"
+    "Movie and Story Inspired Styles": "style_images/movie_storyInspired_style.jpg"
 }
 
 def main():
