@@ -1,6 +1,6 @@
 # Picture_Style_Tool
 
-### Mục lục:
+- Mục lục:
     + Giới thiệu
     + Hướng dẫn
 
