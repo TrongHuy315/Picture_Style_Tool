@@ -2,7 +2,7 @@ import tensorflow as tf
 from PIL import Image
 import numpy as np
 import streamlit as st
-from classical_painting_styles import *
+from sub_function import *
 from io import BytesIO
 import tensorflow_hub as hub
 
