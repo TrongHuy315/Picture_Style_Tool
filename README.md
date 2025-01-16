@@ -1,6 +1,6 @@
 # Picture_Style_Tool
 
-#### Giới thiệu
+### Giới thiệu
 Công cụ Picture_Style_Tool hỗ trợ chuyển đổi phong cách ảnh đầu vào cho người dùng
 Hệ thống xử lý trích xuất đặc trưng và tái tạo phong cách ảnh bởi pretrained model `arbitrary-image-stylization-v1-256/2` của [Google](https://www.google.co.uk/)
 
